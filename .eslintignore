@@ -1,0 +1,5 @@
+config/*
+scripts/*
+public/*
+react-app-env.d.ts
+serviceWorker.ts
